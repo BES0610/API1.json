@@ -1,379 +1,436 @@
 [
-  {
-    "id": 1,
-    "title": "Trousers and jeans",
-    "price": 109.95,
-    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-    "category": "men's clothing",
-    "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/0135/168/800/0135168800_2_7_1.jpg?t=1667488934402",
-    "rating": {
-      "rate": 3.9,
-      "count": 120
+    {
+      "id": 1,
+      "title": "Trousers and jeans",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/0135/168/800/0135168800_2_7_1.jpg?t=1667488934402",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 2,
-    "title": "cargo and parachute",
-    "price": 22.3,
-    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-    "category": "men's clothing",
-    "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/7523/623/800/7523623800_1_3_1.jpg?t=1662723670215",
-    "rating": {
-      "rate": 4.1,
-      "count": 259
+    {
+      "id": 2,
+      "title": "cargo and parachute",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/7523/623/800/7523623800_1_3_1.jpg?t=1662723670215",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 3,
-    "title": "jackets and blazers",
-    "price": 55.99,
-    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-    "category": "men's clothing",
-    "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/1785/653/712//01/1785653712_1_1_3.jpg?t=1672742374569",
-    "rating": {
-      "rate": 4.7,
-      "count": 500
+    {
+      "id": 3,
+      "title": "jackets and blazers",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/1785/653/712//01/1785653712_1_1_3.jpg?t=1672742374569",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 4,
-    "title": " knitwear and Sweatshirts",
-    "price": 15.99,
-    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-    "category": "men's clothing",
-    "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/0135/168/800//04/0d89d51ed56b589a4b2ef69603ba34ca-0135168800_2_24_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 2.1,
-      "count": 430
+    {
+      "id": 4,
+      "title": " knitwear and Sweatshirts",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/0135/168/800//04/0d89d51ed56b589a4b2ef69603ba34ca-0135168800_2_24_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 5,
-    "title": "Dreses",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/1628/492/712/8030d3bc06c42478886cfe20176973e3-1628492712_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=generic",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 5,
+      "title": "Dreses",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/1628/492/712/8030d3bc06c42478886cfe20176973e3-1628492712_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=generic",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 6,
-    "title": "T-shirt and tops",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/3303/405/972/e10bb2b321983750743929b5753a54d6-3303405972_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 6,
+      "title": "T-shirt and tops",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/3303/405/972/e10bb2b321983750743929b5753a54d6-3303405972_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 7,
-    "title": "shoes",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/7451/693/712/cd4678b2d7015543956d12fd9f056e4f-7451693712_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 7,
+      "title": "shoes",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/7451/693/712/cd4678b2d7015543956d12fd9f056e4f-7451693712_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 8,
-    "title": "Accessories",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/5708/187/711/828174afddca3a0e507c239d53b94370-5708187711_1_1_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 8,
+      "title": "Accessories",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/5708/187/711/828174afddca3a0e507c239d53b94370-5708187711_1_1_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 10,
-    "title": "Accessories",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/6782/551/800/92e4ae8657e9112325b34e82b72bd0fb-6782551800_1_1_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 10,
+      "title": "Accessories",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/6782/551/800/92e4ae8657e9112325b34e82b72bd0fb-6782551800_1_1_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 11,
-    "title": "shoes",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/5021/335/400/66c905d653cde72293d989795c889568-5021335400_2_24_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 11,
+      "title": "shoes",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/5021/335/400/66c905d653cde72293d989795c889568-5021335400_2_24_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 12,
-    "title": "T-shirt and tops",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/6706/644/715/f379cc0fe2eff3971535c48fa4604205-6706644715_1_1_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 12,
+      "title": "T-shirt and tops",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/6706/644/715/f379cc0fe2eff3971535c48fa4604205-6706644715_1_1_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 13,
-    "title": "Dreses",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/6782/551/806/e1d620ee32cfd96b9b094ee8a76d0e3a-6782551806_1_1_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 13,
+      "title": "Dreses",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/6782/551/806/e1d620ee32cfd96b9b094ee8a76d0e3a-6782551806_1_1_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 14,
-    "title": "knitwear and Sweatshirts",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2023/V/1/1/p/1103/160/040/3ca43ead4b8232f3f9d4f9712c6741f9-1103160040_2_16_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 14,
+      "title": "knitwear and Sweatshirts",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2023/V/1/1/p/1103/160/040/3ca43ead4b8232f3f9d4f9712c6741f9-1103160040_2_16_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 15,
-    "title": "jackets and blazers",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2023/V/1/1/p/1499/960/001/c6f06e7a1f4c9b2bcff3513173c15872-1499960001_2_16_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 15,
+      "title": "jackets and blazers",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2023/V/1/1/p/1499/960/001/c6f06e7a1f4c9b2bcff3513173c15872-1499960001_2_16_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 16,
-    "title": "cargo and parachute",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/7284/512/712//02/602d4346f9bee7e2ab932892e2283eb3-7284512712_2_7_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 16,
+      "title": "cargo and parachute",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/7284/512/712//02/602d4346f9bee7e2ab932892e2283eb3-7284512712_2_7_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 17,
-    "title": "Trousers and jeans",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/0270/665/406/57d8519fbccf33abfde092210cf0d18c-0270665406_2_7_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 17,
+      "title": "Trousers and jeans",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/0270/665/406/57d8519fbccf33abfde092210cf0d18c-0270665406_2_7_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 18,
-    "title": "shoes",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/7451/693/712/cd4678b2d7015543956d12fd9f056e4f-7451693712_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 18,
+      "title": "shoes",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/7451/693/712/cd4678b2d7015543956d12fd9f056e4f-7451693712_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 19,
-    "title": "Accessories",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/5708/187/711/828174afddca3a0e507c239d53b94370-5708187711_1_1_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 19,
+      "title": "Accessories",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/5708/187/711/828174afddca3a0e507c239d53b94370-5708187711_1_1_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 20,
-    "title": "Accessories",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/6782/551/800/92e4ae8657e9112325b34e82b72bd0fb-6782551800_1_1_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 20,
+      "title": "Accessories",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/6782/551/800/92e4ae8657e9112325b34e82b72bd0fb-6782551800_1_1_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue",
-    "Color4": "Fuji",
-    "Color5": "Red",
-    "Color6": "local"
-  },
-  {
-    "id": 21,
-    "title": "shoes",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/5021/335/400/66c905d653cde72293d989795c889568-5021335400_2_24_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
+    {
+      "id": 21,
+      "title": "shoes",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/5021/335/400/66c905d653cde72293d989795c889568-5021335400_2_24_0.jpg?imwidth=1080&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue"
     },
-    "Name": "Hony",
-    "Color1": "Black",
-    "Color2": "Red",
-    "Color3": "Blue"
-  }
-]
+    {
+      "id":22,
+      "title": "Sweatshirts and knitwear",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/3303/405/972/e10bb2b321983750743929b5753a54d6-3303405972_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
+    },
+    {
+      "id":22,
+      "title": "Sweatshirts and knitwear",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2022/I/0/1/p/3303/405/972/e10bb2b321983750743929b5753a54d6-3303405972_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
+    },
+    {
+      "id": 23,
+      "title": "Sweatshirts and knitwear",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/7451/693/712/cd4678b2d7015543956d12fd9f056e4f-7451693712_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=chrome",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "Name": "Hony",
+      "Color1": "Black",
+      "Color2": "Red",
+      "Color3": "Blue",
+      "Color4": "Fuji",
+      "Color5": "Red",
+      "Color6": "local"
+    }
+  ]
